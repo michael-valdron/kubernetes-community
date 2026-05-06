@@ -271,6 +271,7 @@ channels:
   - name: krex
   - name: krustlet
   - name: kuadrant
+  - name: kubara
   - name: kube-aws
   - name: kube-bind
   - name: kube-burner
