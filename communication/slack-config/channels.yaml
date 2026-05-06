@@ -205,8 +205,10 @@ channels:
   - name: it-users
   - name: java
   - name: jenkins-ci
-  - name: jenkins-x-dev
-  - name: jenkins-x-user
+  - name: jayex-dev
+    id: C9LTHT2BB
+  - name: jayex-user
+    id: C9MBGQJRH
   - name: jp-dev
   - name: jp-events
   - name: jp-mentoring
