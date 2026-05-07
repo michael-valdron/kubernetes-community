@@ -3,7 +3,7 @@ The best place to find information and resources to be able to participate and s
 You can also learn more about the [SIG Architecture Charter](https://github.com/kubernetes/community/blob/master/sig-architecture/charter.md) following the link.
 
 ## Getting started
-Joining the [mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-architecture) will get you invited to our meetings.
+Joining the [mailing list](https://groups.google.com/a/kubernetes.io/g/sig-architecture) will get you invited to our meetings.
 
 Our Regular SIG Meeting is Thursdays at 11:00 PT (Pacific Time) (biweekly). This would be a good place to start.
 

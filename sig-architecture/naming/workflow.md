@@ -87,6 +87,6 @@ agree to it.
 - Areas in scope are now responsible for implementation
 
 [framework]: language-evaluation-framework.md
-[mailing-list]: https://groups.google.com/forum/#!forum/kubernetes-sig-architecture
+[mailing-list]: https://groups.google.com/a/kubernetes.io/g/sig-architecture
 [slack]: https://kubernetes.slack.com/messages/sig-architecture
 [template]: ./recommendations/000-template.md
