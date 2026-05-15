@@ -69,6 +69,10 @@ The following [working groups][working-group-definition] are sponsored by sig-ap
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-apps:
+### agent-devops
+- **Owners:**
+  - [kubernetes-sigs/devops-bench](https://github.com/kubernetes-sigs/devops-bench/blob/main/OWNERS)
+  - [kubernetes-sigs/kube-agents](https://github.com/kubernetes-sigs/kube-agents/blob/main/OWNERS)
 ### agent-sandbox
 Easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes
 - **Owners:**

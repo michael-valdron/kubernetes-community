@@ -248,6 +248,10 @@ sigs:
         github: aojea
         name: Antonio Ojea
     subprojects:
+      - name: agent-devops
+        owners:
+          - https://raw.githubusercontent.com/kubernetes-sigs/devops-bench/main/OWNERS
+          - https://raw.githubusercontent.com/kubernetes-sigs/kube-agents/main/OWNERS
       - name: agent-sandbox
         description: Easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes
         contact:
